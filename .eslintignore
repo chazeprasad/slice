@@ -1,0 +1,16 @@
+build/
+dist/
+assets/
+config/
+node_modules/
+public/
+script/
+persist/
+stats/
+.git/
+coverage/
+
+@types
+
+**/node_modules/**
+package/**/dist

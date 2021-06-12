@@ -1,0 +1,21 @@
+{
+    "name": "@slicejs/action",
+    "version": "1.0.0",
+    "private": true,
+    "main": "dist/index.js",
+    "typings": "dist/index.d.ts",
+    "files": [
+        "dist"
+    ],
+    "scripts": {
+        "build": "tsc"
+    },
+    "dependencies": {
+        "@slicejs/core": "^1.0.0",
+        "@slicejs/inject": "^1.0.0",
+        "@slicejs/hook": "^1.0.0",
+        "reflect-metadata": "^0.1.13",
+        "@types/reflect-metadata": "^0.1.0"
+    },
+    "devDependencies": {}
+}
