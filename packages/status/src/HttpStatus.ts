@@ -28,6 +28,4 @@ export class HttpStatus {
     public static UNPROCESSABLE_ENTITY = 422;
 
     public static INTERNAL_SERVER_ERROR = 500;
-
-    constructor() {}
 }
