@@ -1,6 +1,6 @@
 {
     "private": true,
-    "name": "@slice/root",
+    "name": "@slicejs/root",
     "description": "A Simple Modular Node.JS Framework",
     "homepage": "",
     "repository": {

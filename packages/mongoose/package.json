@@ -1,5 +1,5 @@
 {
-    "name": "@slice/mongoose",
+    "name": "@slicejs/mongoose",
     "version": "1.0.9",
     "main": "dist/index.js",
     "typings": "dist/index.d.ts",
@@ -16,5 +16,5 @@
     "publishConfig": {
         "access": "public"
     },
-    "gitHead": "72d3cd42cba7294f07f1cccda1b2afafdc017788"
+    "gitHead": "513b043338befc4f1c89a37f444ecd0eda641c13"
 }

@@ -1,5 +1,5 @@
 {
-    "name": "@slice/error",
+    "name": "@slicejs/error",
     "version": "1.0.9",
     "main": "dist/index.js",
     "typings": "dist/index.d.ts",
@@ -10,12 +10,12 @@
         "build": "tsc"
     },
     "dependencies": {
-        "@slice/core": "^1.0.9",
-        "@slice/status": "^1.0.9",
+        "@slicejs/core": "^1.0.9",
+        "@slicejs/status": "^1.0.9",
         "jsonwebtoken": "^8.5.1"
     },
     "publishConfig": {
         "access": "public"
     },
-    "gitHead": "72d3cd42cba7294f07f1cccda1b2afafdc017788"
+    "gitHead": "513b043338befc4f1c89a37f444ecd0eda641c13"
 }

@@ -1,4 +1,4 @@
-import { Base } from '@slice/core';
+import { Base } from '@slicejs/core';
 
 export class BaseService extends Base {
     constructor() {

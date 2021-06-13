@@ -1,4 +1,4 @@
-import { Base } from '@slice/core';
+import { Base } from '@slicejs/core';
 import { ApiError } from './ApiError';
 import { IRescueProp } from './IRescueProp';
 import { IRescueResultProp } from './IRescueResultProp';

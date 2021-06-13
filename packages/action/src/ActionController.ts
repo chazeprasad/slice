@@ -1,5 +1,5 @@
-import { Base } from '@slice/core';
-import { IBeforeActionProps, IAfterActionProps } from '@slice/hook';
+import { Base } from '@slicejs/core';
+import { IBeforeActionProps, IAfterActionProps } from '@slicejs/hook';
 
 export type Middleware = (req?, res?, next?: any) => any;
 
