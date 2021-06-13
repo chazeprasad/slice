@@ -1,7 +1,6 @@
 {
     "name": "@slicejs/inject",
     "version": "1.0.2",
-    "private": true,
     "main": "dist/index.js",
     "typings": "dist/index.d.ts",
     "files": [
