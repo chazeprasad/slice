@@ -1,6 +1,6 @@
 {
     "name": "@slice/action",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "main": "dist/index.js",
     "typings": "dist/index.d.ts",
     "files": [
@@ -10,9 +10,9 @@
         "build": "tsc"
     },
     "dependencies": {
-        "@slice/core": "^1.0.3",
-        "@slice/hook": "^1.0.3",
-        "@slice/inject": "^1.0.3",
+        "@slice/core": "^1.0.4",
+        "@slice/hook": "^1.0.4",
+        "@slice/inject": "^1.0.4",
         "@types/reflect-metadata": "^0.1.0",
         "reflect-metadata": "^0.1.13"
     },
