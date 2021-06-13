@@ -13,7 +13,7 @@
         "start": "yarn menu",
         "bootstrap": "lerna bootstrap",
         "build": "lerna run build",
-        "clean": "rimraf package/**/dist",
+        "clean": "rimraf packages/**/dist",
         "clean:lerna": "lerna clean",
         "format": "prettier \"**/*.ts\" --ignore-path ./.prettierignore --write && git status",
         "lint": "concurrently 'npm run lint:packages' 'npm run lint:integration' 'npm run lint:spec'",
