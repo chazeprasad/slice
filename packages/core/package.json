@@ -1,6 +1,6 @@
 {
     "name": "@slicejs/core",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "private": true,
     "main": "dist/index.js",
     "typings": "dist/index.d.ts",
@@ -11,8 +11,8 @@
         "build": "tsc"
     },
     "dependencies": {
-        "@slicejs/inject": "^1.0.1",
-        "@slicejs/logger": "^1.0.1",
+        "@slicejs/inject": "^1.0.2",
+        "@slicejs/logger": "^1.0.2",
         "@types/app-root-path": "^1.2.4",
         "@types/body-parser": "^1.19.0",
         "@types/compression": "^1.7.0",

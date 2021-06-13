@@ -1,6 +1,6 @@
 {
     "name": "@slicejs/error",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "private": true,
     "main": "dist/index.js",
     "typings": "dist/index.d.ts",
@@ -11,8 +11,8 @@
         "build": "tsc"
     },
     "dependencies": {
-        "@slicejs/core": "^1.0.1",
-        "@slicejs/status": "^1.0.1",
+        "@slicejs/core": "^1.0.2",
+        "@slicejs/status": "^1.0.2",
         "jsonwebtoken": "^8.5.1"
     },
     "publishConfig": {
