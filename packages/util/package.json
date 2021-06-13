@@ -1,6 +1,6 @@
 {
     "name": "@slicejs/util",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "private": true,
     "main": "dist/index.js",
     "typings": "dist/index.d.ts",
@@ -13,6 +13,5 @@
     "dependencies": {
         "@types/q": "^1.5.4",
         "@types/reflect-metadata": "^0.1.0"
-    },
-    "devDependencies": {}
+    }
 }

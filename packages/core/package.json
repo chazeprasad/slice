@@ -1,6 +1,6 @@
 {
     "name": "@slicejs/core",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "private": true,
     "main": "dist/index.js",
     "typings": "dist/index.d.ts",
@@ -11,8 +11,8 @@
         "build": "tsc"
     },
     "dependencies": {
-        "@slicejs/logger": "^1.0.0",
-        "@slicejs/inject": "^1.0.0",
+        "@slicejs/inject": "^1.0.1",
+        "@slicejs/logger": "^1.0.1",
         "@types/app-root-path": "^1.2.4",
         "@types/body-parser": "^1.19.0",
         "@types/compression": "^1.7.0",
@@ -27,9 +27,7 @@
         "@types/method-override": "^0.0.31",
         "@types/moment": "^2.13.0",
         "@types/morgan": "^1.9.1",
-        
         "@types/q": "^1.5.4",
-        "reflect-metadata": "^0.1.13",
         "@types/reflect-metadata": "^0.1.0",
         "@types/winston": "^2.4.4",
         "app-root-path": "^3.0.0",
@@ -50,9 +48,9 @@
         "morgan": "^1.10.0",
         "path": "^0.12.7",
         "q": "^1.5.1",
+        "reflect-metadata": "^0.1.13",
         "ts-node": "^9.0.0",
         "typescript": "^4.0.2",
         "winston": "^3.3.3"
-    },
-    "devDependencies": {}
+    }
 }
