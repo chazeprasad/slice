@@ -1,5 +1,5 @@
 {
-    "name": "@slicejs/hook",
+    "name": "@slice/hook",
     "version": "1.0.3",
     "main": "dist/index.js",
     "typings": "dist/index.d.ts",

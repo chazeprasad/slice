@@ -1,5 +1,5 @@
 import { ActionDecoratorUtil } from './ActionDecoratorUtil';
-import { InjectUtil } from '@slicejs/inject';
+import { InjectUtil } from '@slice/inject';
 
 const { ROUTE_PREFIX } = ActionDecoratorUtil;
 

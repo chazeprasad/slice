@@ -1,5 +1,5 @@
-import { Logger } from '@slicejs/logger';
-import { Injector } from '@slicejs/inject';
+import { Logger } from '@slice/logger';
+import { Injector } from '@slice/inject';
 
 export class Base {
     public log: any;

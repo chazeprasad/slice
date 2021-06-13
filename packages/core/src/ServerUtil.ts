@@ -1,5 +1,5 @@
 import * as http from 'http';
-import { Logger } from '@slicejs/logger';
+import { Logger } from '@slice/logger';
 
 const DefaultPort = 5555;
 

@@ -1,5 +1,5 @@
 {
-    "name": "@slicejs/util",
+    "name": "@slice/util",
     "version": "1.0.3",
     "main": "dist/index.js",
     "typings": "dist/index.d.ts",

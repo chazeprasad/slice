@@ -1,5 +1,5 @@
 import 'reflect-metadata';
-import { HttpStatus } from '@slicejs/status';
+import { HttpStatus } from '@slice/status';
 import { BaseExceptionHandler } from './BaseExceptionHandler';
 import { ApiError } from './ApiError';
 import { IRescueProp } from './IRescueProp';

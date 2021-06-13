@@ -1,5 +1,5 @@
 {
-    "name": "@slicejs/inject",
+    "name": "@slice/inject",
     "version": "1.0.3",
     "main": "dist/index.js",
     "typings": "dist/index.d.ts",
