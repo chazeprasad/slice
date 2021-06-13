@@ -9,5 +9,8 @@
     ],
     "scripts": {
         "build": "tsc"
+    },
+    "publishConfig": {
+        "access": "public"
     }
 }
