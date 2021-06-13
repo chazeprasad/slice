@@ -2,6 +2,7 @@
     "private": true,
     "name": "@slicejs/root",
     "description": "A Simple Modular Node.JS Framework",
+    "homepage": "",
     "repository": {
         "type": "git",
         "url": "https://github.com/chazeprasad/slice.git"
